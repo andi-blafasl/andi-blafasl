@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://github.com/andi-blafasl/andi-blafasl/raw/main/pragyan-goswami-GziKHv-3lVc-unsplash.jpg" align="center" style="width: 100%" />
 </div>  
   
 
