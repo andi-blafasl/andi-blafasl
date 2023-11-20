@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://github.com/andi-blafasl/andi-blafasl/raw/main/pragyan-goswami-GziKHv-3lVc-unsplash.jpg" align="center" style="width: 100%" />
+<img src="https://github.com/andi-blafasl/andi-blafasl/raw/main/Framework.webp" align="center" style="width: 100%" />
+  Image &copy; https://frame.work/
 </div>  
   
 
